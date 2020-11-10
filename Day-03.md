@@ -13,7 +13,7 @@
 4. **Generic Collection**
 5. **Introduction to Java 8 Collection Streams**
 =======================================================================================
-
+## Start 
 1. Arrays  
    * Arrays are static in  nature i.e ince decalred their size canot be changed. otherwise arrayIndexOutOFBoundException is thrown.
    * Arrays are randomly accessible by using subscript.
