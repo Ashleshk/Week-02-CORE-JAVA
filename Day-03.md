@@ -1,6 +1,7 @@
 ## Day-03
-==============================================================
-**Core Java – Collections and Generics**
+=============================================================================================== 
+
+# Core Java – Collections and Generics 
 1. **Collections framework**
 	* ArrayList
     * LinkedList
@@ -11,7 +12,7 @@
 3. **Comparable v/s Comparator**
 4. **Generic Collection**
 5. **Introduction to Java 8 Collection Streams**
-==============================================================
+=======================================================================================
 
 1. Arrays  
    * Arrays are static in  nature i.e ince decalred their size canot be changed. otherwise arrayIndexOutOFBoundException is thrown.
