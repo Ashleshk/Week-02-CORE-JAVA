@@ -1,16 +1,16 @@
 ## Day-03
 ==============================================================
 **Core Java – Collections and Generics**
-o **Collections framework**
-    • ArrayList
-    • LinkedList
-    • HashMap
-    • HashTable
-    • HashSet
-o **Other classes and interfaces in Collection Framework**
-o **Comparable v/s Comparator**
-o **Generic Collection**
-o **Introduction to Java 8 Collection Streams**
+1. **Collections framework**
+	* ArrayList
+    * LinkedList
+    * HashMap
+    * HashTable
+    * HashSet
+2. **Other classes and interfaces in Collection Framework**
+3. **Comparable v/s Comparator**
+4. **Generic Collection**
+5. **Introduction to Java 8 Collection Streams**
 ==============================================================
 
 1. Arrays  
