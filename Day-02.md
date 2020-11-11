@@ -168,7 +168,7 @@ interface <name-interface>{
 
 
 
-=============================================================
+==================================================================================================
 1.  single program in which i want to implement all my OOPS concept --> abstarction + poymorphism (both types) + interface 
 
 
@@ -185,7 +185,7 @@ interface <name-interface>{
     Class Airtel  --> child of SMSSender
        above method + ariteloffer()
     Main
-==============================================================
+==================================================================================================
 9. Exceptions 
 1.Error Class (asynchronous )
 
@@ -211,12 +211,16 @@ finally()
 }
 ```
 ==============================================================
+
+
 Assignment 
 Custom exception deptname check is HR
 employee code > 100
                  
 
 =============================================================
+
+
 //*** Rules***//
 // 1. If the superclass method does not declare an exception, subclass overridden method 
 //    cannot declare the checked exception but can declare unchecked/runtime exception.
