@@ -84,7 +84,8 @@ eg:-  int y= 34;
 
 14. EVALUATION IS DONE LEFT TO RIGHT 
 
-========================================================================================================
+========================================================================================
+
 ASSGINMENT 
 WAP : converstion from long to double / int to double, double to float, flaoat to int
 ```java
@@ -104,7 +105,7 @@ public class ConversionDemo {
 	}
 }
 ```
-========================================================================================================
+ 
 
 15. TYPES OF LOOP
     * for-loop;
