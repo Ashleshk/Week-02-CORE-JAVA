@@ -53,7 +53,7 @@ end; //
 DELIMITER ;
 ```
 
-
+-------------------------------------------------------------------------------------
 Create the JDBC
  (a) Create the new database
  (b) using the new database create a new table in mysql (  employee with tow departments values ' IT, 'HR')
@@ -65,7 +65,7 @@ Create the JDBC
 
 
 -----------------------------------------------------------------------------------------------
-## static 
+3. static 
  * --shared value for all objects
  * static methods can only have stci variables  but in non-static methods we can have both
  * static methods can be called with class name as well as class obj
@@ -74,3 +74,23 @@ Create the JDBC
         s1.change();  // static method can be called as 
 		Student.change();
      ```
+
+4. Anonympus block
+    * used for initialise values before object creation
+    * first thing is called before static block
+
+
+
+5. priority wise:
+    1) static block
+    2) anynomous block
+    3) constructor (default)
+    4) parameterized constructor 
+    5) normal method call
+
+SAM -single Abstract method
+6. Lambda Expression
+    * ShortHand Method Defination
+    * Interface must contain atleast 1 method so as to defined in lamda style 
+    * but interface can have many method,which should be defined like learned prev in java
+    * So the condition 1 interface with 1 method --> lambda, 1 inteface with >1 mwthods --> no lambda.
