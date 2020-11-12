@@ -94,3 +94,6 @@ SAM -single Abstract method
     * Interface must contain atleast 1 method so as to defined in lamda style 
     * but interface can have many method,which should be defined like learned prev in java
     * So the condition 1 interface with 1 method --> lambda, 1 inteface with >1 mwthods --> no lambda.
+
+
+7. Threads : 
