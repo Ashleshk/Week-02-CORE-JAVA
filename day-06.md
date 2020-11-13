@@ -148,11 +148,26 @@ Class ICICI: public RBI
 }
 ```
 
+# Normalisation 
 
+https://www.guru99.com/database-normalization.html
 
+* Comparable provides a single sorting sequence. In other words, we can sort the collection on the basis of a single element such as id, name, and price.
 
+* The Comparator provides multiple sorting sequences. In other words, we can sort the collection on the basis of multiple elements such as id, name, and price etc.
 
+* comparable
+public int compareTo(Object o)
+* comparator
+public int compare(Object o1, Object o2)
 
-
+truncate delete data only,drop delete data as well as structure of table
+ 
+ ```sql
+SELECT ID, NAME, AMOUNT, DATE
+FROM CUSTOMERS, ORDERS;
+ 
+--cross join
+```
 
 
