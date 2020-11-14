@@ -1,8 +1,6 @@
 ## JAVA 
 
-https://drive.google.com/file/d/1fJGyb5-QkYJbAf6GAJydpZrVrbRh2nR8/view?usp=sharing
-
-https://drive.google.com/file/d/1HTk5bJ_uH35XTJUOG-LfdGjzUPf_IE6o/view?usp=sharing
+ 
 
 ## CREATING PROJECT
 >File-->New-->Other --> Java(yellow folder) --> Java Project 
