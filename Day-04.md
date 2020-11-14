@@ -1,6 +1,5 @@
 ## Day-04 
-majrul.ansari@lntinfotech.com
-dinesh.malwade@lntinfotech.com
+
 
 ![java class](https://github.com/Ashleshk/Week-02-CORE-JAVA/blob/main/d41.JPG)
 
