@@ -59,7 +59,7 @@ public class MainTest {
     
     2. functions:
     Static methods
-    norma methods
+    normal methods
     constructors
 
     3. inner classes
@@ -177,7 +177,7 @@ public class BreakAndContinue {
 
 ```
 17. Modifiers
-> 1. Public --> the value is to be accessible withing the same package + another package
+> 1. Public --> the value is to be accessible within the same package + another package
 > 2. private --> the value should be accessible inside the same classs
 > 3. protected --> the value will be visisble inside the same package(all classes+ subclasses) and also subclass inside another package
 > 4. default -->  the value is visible inside the same package only
@@ -227,9 +227,9 @@ package: everything will be in small case only
 
 Porject Name--> similar to class_name notation
 
-methods name: if we have tow words then firsst word should be smallcase and other word should be start from first initial as CAPS
+methods name : if we have tow words then firsst word should be smallcase and other word should be start from first initial as CAPS
 
-like:  addCalculate()
+like :  addCalculate()
 
 
 
