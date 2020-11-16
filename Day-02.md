@@ -114,7 +114,7 @@ Public Method of MNC
 ```
 
 
-2. Encapsulations
+2. Encapsulations  --> setters and getter
 
 3. Polymorphism --> multiple behavior for same object
     * **static polymorphism** --> complile time --> method overloading , occurs in same class
